@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 type User = {
   id: string
   name: string
